@@ -1,0 +1,25 @@
+{
+  "video_id": "_Jt6GV9kp6k",
+  "video_duration_seconds": 43.398095,
+  "video_duration_formatted": "43.4s",
+  "timings_seconds": {
+    "Download": 0.0015990734100341797,
+    "Audio Extraction": 1.3198750019073486,
+    "Transcription": 132.9290919303894,
+    "Translation": 0.0021572113037109375,
+    "TTS Generation": 28.06850290298462,
+    "Synchronization": 41.49532771110535,
+    "Video Muxing": 2.362180709838867,
+    "Total": 207.52680373191833
+  },
+  "timings_formatted": {
+    "Download": "0.0s",
+    "Audio Extraction": "1.3s",
+    "Transcription": "2m 12s",
+    "Translation": "0.0s",
+    "TTS Generation": "28.1s",
+    "Synchronization": "41.5s",
+    "Video Muxing": "2.4s",
+    "Total": "3m 27s"
+  }
+}

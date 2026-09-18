@@ -1,0 +1,6 @@
+yt-dlp>=2024.8.6
+openai-whisper>=20231117
+torch>=2.0.0
+edge-tts>=6.1.10
+deep-translator>=1.11.4
+python-dotenv>=1.0.0

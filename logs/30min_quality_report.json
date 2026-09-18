@@ -1,0 +1,15 @@
+{
+  "source_duration": 1799.917,
+  "downloaded_duration": 1799.917,
+  "audio_duration": 1799.988,
+  "transcription_segments": 633,
+  "last_transcript_timestamp": 1797.36,
+  "translated_segments": 633,
+  "tts_segments": 633,
+  "failed_tts_segments": 0,
+  "dubbed_audio_duration": 1799.917,
+  "final_video_duration": 1799.917,
+  "final_audio_duration": 1799.917,
+  "duration_difference": 0.0,
+  "processing_time": 634.62
+} 

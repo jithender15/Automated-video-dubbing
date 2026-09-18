@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
+# Project working directories
+downloads/*
+!downloads/.gitkeep
+temp/*
+!temp/.gitkeep
+outputs/*.mp4
+outputs/*.wav
+outputs/*.mkv
+outputs/*.webm
+!outputs/.gitkeep
+logs/*.log
+.cache/
+
+# Environment and sensitive data
+.env
+*.pem
+*.key
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

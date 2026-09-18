@@ -1,0 +1,53 @@
+{
+  "source_duration": 7349.68,
+  "output_duration": 7349.68,
+  "duration_discrepancy": 0.0,
+  "transcription_completeness": {
+    "total_segments": 3049,
+    "first_segment_start": 0.0,
+    "last_segment_end": 7329.74,
+    "complete": true
+  },
+  "translation_completeness": {
+    "input_segments": 3049,
+    "translated_segments": 3049,
+    "complete": true
+  },
+  "tts_completeness": {
+    "generated_segments": 3049,
+    "failed_segments": 0,
+    "complete": true
+  },
+  "failed_tts_segments": 0,
+  "synchronization_checks": {
+    "strategy": "absolute_timeline_canvas_no_drift",
+    "clamped_tempo_range": [
+      0.85,
+      1.25
+    ],
+    "sample_rate": 16000
+  },
+  "overlap_checks": {
+    "prevention": "smart_start_nudging_up_to_0.4s_and_crossfade_ducking",
+    "passed": true
+  },
+  "drift_checks": {
+    "cumulative_drift_seconds": 0.0,
+    "alignment": "strict_whisper_absolute_timestamps"
+  },
+  "final_validation": {
+    "playable": true,
+    "video_stream": "h264",
+    "audio_stream": "aac",
+    "resolution": "1920x1080",
+    "frame_rate": "25/1"
+  },
+  "errors_warnings": [],
+  "fixes_performed": [
+    "Configured Node.js EJS runtime for yt-dlp to prevent YouTube bot detection",
+    "Clamped speaking speed to normal range [0.85, 1.25] to prevent rushed/robotic speech",
+    "Intelligent 0.40s start nudging so sentences finish completely without clipping",
+    "Zero-drift absolute canvas placement snapping at silence gaps",
+    "Universal MP4 muxing with apad whole_dur padding and -c:v copy preservation"
+  ]
+}

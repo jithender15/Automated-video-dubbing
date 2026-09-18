@@ -1,0 +1,25 @@
+{
+  "video_id": "nCa4p_o2nTA",
+  "video_duration_seconds": 36.733333,
+  "video_duration_formatted": "36.7s",
+  "timings_seconds": {
+    "Download": 8.704411506652832,
+    "Audio Extraction": 1.3091468811035156,
+    "Transcription": 45.24671649932861,
+    "Translation": 2.6876180171966553,
+    "TTS Generation": 2.3551888465881348,
+    "Synchronization": 6.195282220840454,
+    "Video Muxing": 4.862841606140137,
+    "Total": 75.01674795150757
+  },
+  "timings_formatted": {
+    "Download": "8.7s",
+    "Audio Extraction": "1.3s",
+    "Transcription": "45.2s",
+    "Translation": "2.7s",
+    "TTS Generation": "2.4s",
+    "Synchronization": "6.2s",
+    "Video Muxing": "4.9s",
+    "Total": "1m 15s"
+  }
+}

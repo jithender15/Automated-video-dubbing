@@ -1,0 +1,25 @@
+{
+  "video_id": "7KI-tp4Y4FA",
+  "video_duration_seconds": 7349.68,
+  "video_duration_formatted": "2h 2m 29s",
+  "timings_seconds": {
+    "Download": 291.72798109054565,
+    "Audio Extraction": 47.68838810920715,
+    "Transcription": 1049.699100971222,
+    "Translation": 3.17608380317688,
+    "TTS Generation": 393.38187432289124,
+    "Synchronization": 37779.74122905731,
+    "Video Muxing": 86.5429916381836,
+    "Total": 39797.507677316666
+  },
+  "timings_formatted": {
+    "Download": "4m 51s",
+    "Audio Extraction": "47.7s",
+    "Transcription": "17m 29s",
+    "Translation": "3.2s",
+    "TTS Generation": "6m 33s",
+    "Synchronization": "10h 29m 39s",
+    "Video Muxing": "1m 26s",
+    "Total": "11h 3m 17s"
+  }
+}

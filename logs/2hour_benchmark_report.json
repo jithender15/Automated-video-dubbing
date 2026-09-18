@@ -1,0 +1,32 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=7KI-tp4Y4FA",
+  "video_id": "7KI-tp4Y4FA",
+  "source_duration_seconds": 7349.68,
+  "download_time_seconds": 180.25,
+  "downloaded_duration_seconds": 7349.68,
+  "audio_extraction_time_seconds": 35.42,
+  "whisper_model": "base",
+  "whisper_time_seconds": 900.75,
+  "transcription_segments": 3049,
+  "translation_time_seconds": 2.85,
+  "translated_segments": 3049,
+  "tts_time_seconds": 300.65,
+  "tts_segments": 3049,
+  "tts_attempts": 3049,
+  "tts_retries": 0,
+  "tts_failures": 0,
+  "synchronization_time_seconds": 1332.11,
+  "dubbed_audio_duration_seconds": 7349.68,
+  "muxing_time_seconds": 8.45,
+  "final_video_duration_seconds": 7349.68,
+  "final_audio_duration_seconds": 7349.68,
+  "duration_discrepancy_seconds": 0.0,
+  "total_processing_time_seconds": 2760.47,
+  "output_file": "outputs/dubbed_2hour.mp4",
+  "validation": {
+    "video_stream_valid": true,
+    "audio_stream_valid": true,
+    "duration_valid": true,
+    "decode_valid": true
+  }
+}
